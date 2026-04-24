@@ -6,7 +6,7 @@
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 API_ID    = 123456
 API_HASH  = "your_api_hash_here"
-OWNER_ID  = 123456789
+OWNER_ID  = 5864182070
 
 # ============================================================
 #   FORCE JOIN SETTINGS
@@ -37,23 +37,23 @@ FORCE_JOIN_CHANNELS = [
     # ── Public Channel example ──────────────────────────────
     {
         "name": "Main Channel",
-        "id":   "@yourchannel",                        # public username
-        "link": "https://t.me/yourchannel",
+        "id":   "@musicgroupxd",                        # public username
+        "link": "https://t.me/musicgroupxd",
     },
 
     # ── Private Channel example ─────────────────────────────
     {
-        "name": "Private VIP Channel",
-        "id":   -1001234567890,                        # numeric ID (integer)
-        "link": "https://t.me/+abcdefghijklmnop",      # private invite link
+        "name": "Private",
+        "id":   -1003758910410,                        # numeric ID (integer)
+        "link": "https://t.me/+WCG-rODXjoJlODQ1",      # private invite link
     },
 
     # ── Private Group example ───────────────────────────────
-    {
-        "name": "Private Group",
-        "id":   -1009876543210,                        # numeric ID (integer)
-        "link": "https://t.me/+xxxxxxxxxxxxxxxxx",     # private invite link
-    },
+    #{
+      #  "name": "Private Group",
+      #  "id":   -1009876543210,                        # numeric ID (integer)
+     #   "link": "https://t.me/+xxxxxxxxxxxxxxxxx",     # private invite link
+  #  },
 
 ]
 
